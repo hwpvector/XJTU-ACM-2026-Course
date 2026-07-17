@@ -6,4 +6,22 @@
 
 对应的教学视频链接：
 
-- 来自 https://space.bilibili.com/241568060 主页上的视频链接。等待课程结束后，会标明具体视频链接。
+[Day1 绪论与基础知识] https://www.bilibili.com/video/BV1CPMb6rE8J
+
+[Day2 贪心思想] https://www.bilibili.com/video/BV1DKMq6GErt
+
+[Day3 搜索] https://www.bilibili.com/video/BV1mBM76UEK4
+
+[Day4 动态规划] https://www.bilibili.com/video/BV1oSNL6QE4H
+
+[Day5 分治思想] https://www.bilibili.com/video/BV1FcNs67E3A
+
+[Day6 数据结构] https://www.bilibili.com/video/BV1gHNm6wEsz
+
+[Day7 图论] https://www.bilibili.com/video/BV1pwNQ6hEzr
+
+[Day8 数论与线性代数] https://www.bilibili.com/video/BV1V5Ni6MEif
+
+[Day9 字符串] https://www.bilibili.com/video/BV16KKG6EENu
+
+[Day10 组合数学与博弈论] https://www.bilibili.com/video/BV15DKJ6aEVp
